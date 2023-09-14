@@ -1,0 +1,10 @@
+.cutlink {
+  max-width: 100px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.fdisable {
+  pointer-events: none;
+}
